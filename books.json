@@ -1,0 +1,141 @@
+{
+  "books": [
+    {
+      "id": 101,
+      "title": "dignissimos eos repellat",
+      "author": "Nicholas Reichert",
+      "rating": 1.45,
+      "year_published": 1877
+    },
+    {
+      "id": 102,
+      "title": "consequatur illum laboriosam molestiae nisi",
+      "author": "Roslyn Kohler",
+      "rating": 2.25,
+      "year_published": 1983
+    },
+    {
+      "id": 103,
+      "title": "inventore quibusdam voluptatem sequi commodi at",
+      "author": "Mable Flatley",
+      "rating": 3.55,
+      "year_published": 1836
+    },
+    {
+      "id": 104,
+      "title": "cum ad odio et dolores",
+      "author": "Jamal Kirlin",
+      "rating": 4.1,
+      "year_published": 1952
+    },
+    {
+      "id": 105,
+      "title": "perferendis ut accusantium ratione consequatur",
+      "author": "Dora Boehm",
+      "rating": 3.6,
+      "year_published": 1841
+    },
+    {
+      "id": 106,
+      "title": "velit",
+      "author": "Trenton Leuschke",
+      "rating": 3,
+      "year_published": 1747
+    },
+    {
+      "id": 107,
+      "title": "doloribus eos",
+      "author": "Perry Conn",
+      "rating": 0.25,
+      "year_published": 1788
+    },
+    {
+      "id": 108,
+      "title": "repudiandae adipisci architecto dolorem impedit",
+      "author": "Friedrich Kemmer",
+      "rating": 1.5,
+      "year_published": 1724
+    },
+    {
+      "id": 109,
+      "title": "consequatur corporis voluptas",
+      "author": "Oran Rath",
+      "rating": 2.6,
+      "year_published": 1850
+    },
+    {
+      "id": 110,
+      "title": "sunt voluptatum",
+      "author": "Tomas Waters",
+      "rating": 1.15,
+      "year_published": 1879
+    },
+    {
+      "id": 111,
+      "title": "vitae",
+      "author": "Benedict Lakin",
+      "rating": 1.8,
+      "year_published": 1843
+    },
+    {
+      "id": 112,
+      "title": "maiores nisi neque esse",
+      "author": "Michale Ratke",
+      "rating": 0.5,
+      "year_published": 1766
+    },
+    {
+      "id": 113,
+      "title": "aliquid consequuntur voluptas accusamus modi",
+      "author": "Benny Connelly",
+      "rating": 1.5,
+      "year_published": 1850
+    },
+    {
+      "id": 114,
+      "title": "est et rem laudantium",
+      "author": "Rylee Hackett",
+      "rating": 2.75,
+      "year_published": 1805
+    },
+    {
+      "id": 115,
+      "title": "maxime",
+      "author": "Tillman Mayert",
+      "rating": 0.25,
+      "year_published": 1798
+    },
+    {
+      "id": "ba88",
+      "title": "AAA",
+      "author": "BBB"
+    },
+    {
+      "id": "ce58",
+      "title": "QQQ",
+      "author": "WWW"
+    },
+    {
+      "id": "08e6"
+    },
+    {
+      "id": "7903",
+      "title": "lkj",
+      "author": "kk"
+    },
+    {
+      "id": "",
+      "title": "Test",
+      "author": "Demo",
+      "rating": "",
+      "year_published": ""
+    },
+    {
+      "id": "",
+      "title": "Test",
+      "author": "DEmo2",
+      "rating": "",
+      "year_published": ""
+    }
+  ]
+}
